@@ -1,3 +1,7 @@
+'''
+@author:GongCheng
+@date:2019-6-24
+'''
 from keras_preprocessing.image import ImageDataGenerator
 from keras.utils import to_categorical
 from keras.applications.mobilenet import preprocess_input as mobilenet_preprocess_input,MobileNet
