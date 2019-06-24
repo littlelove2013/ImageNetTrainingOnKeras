@@ -1,3 +1,7 @@
+'''
+@author: GongCheng
+@date:2019-6-24
+'''
 filenames=['/data/imagenet/ilsvrc12/matdata/val-0.mat',
  '/data/imagenet/ilsvrc12/matdata/val-1.mat',
  '/data/imagenet/ilsvrc12/matdata/val-2.mat',
